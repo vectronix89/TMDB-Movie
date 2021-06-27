@@ -17,6 +17,7 @@ Create 📱 movie apps using SwiftUI and TMDB Api, App mainly developed to learn
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 
 **Preview**
+
 <img src="https://user-images.githubusercontent.com/3541294/123546981-194e8600-d789-11eb-9f7b-e626d104d7c1.png" width="200" />
 <img src="https://user-images.githubusercontent.com/3541294/123546975-15baff00-d789-11eb-8c64-566a255e7ee3.png" width="200" />
 <img src="https://user-images.githubusercontent.com/3541294/123546984-1a7fb300-d789-11eb-910f-08ae418d4b20.png" width="200" />
